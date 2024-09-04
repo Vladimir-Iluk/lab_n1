@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFC0CB;
+    font-family: 'prompt', sans-serif;
+    
+}
+
+.bodyInformation {
+    background-color: orange;
+    font-family: 'prompt', sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: green;
+}
+
+
+.lineRed {
+    border-bottom: 2pt solid #f00; 
+    margin-bottom: 20px;
+}
+
+.lineBlue {
+    border-bottom: 2pt solid blue;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.blackLineInformation {
+    border-bottom: 3pt solid black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.blueLineInformation {
+    border-bottom: 2pt solid blue;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+
+.about{
+    margin: 10px 10px 10px 10px;
+    border: 3px solid green;
+    text-align: justify;
+}
+
+.aboutMeText {
+    color: green;
+}
+.initial {
+    text-align: end;
+    color: green;
+    margin-right: 10px;
+}
+
+.pBiografy {
+    margin: 10px 10px 10px 10px;
+    border: 4px solid brown;
+    text-align:center;
+
+}
+.footerP {
+    text-align: end;
+    
+    margin-right: 10px;
+}
